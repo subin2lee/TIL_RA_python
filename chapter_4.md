@@ -118,6 +118,6 @@ for looper in [1, 2, 3, 4, 5]
 <br>
 &emsp;&emsp; ⅰ, 셸에서 실행하는 방법
 <br>
-&emsp;&emsp; ⅱ, **If __name__ == '__main__'** &emsp;=>&emsp; 함수 안에 들어있지 않는 코드들을 작동되지 않게 하기 위해서 (권장X)
+&emsp;&emsp; ⅱ, If __name__ == '__main__' &emsp;=>&emsp; 함수 안에 들어있지 않는 코드들을 작동되지 않게 하기 위해서 (권장X)
 <br>
-&emsp;&emsp; ⭐**스스로 해결하기** (구글링이 체고다 ! gOod ~) 
+&emsp;&emsp; ⭐스스로 해결하기⭐ (구글링이 체고다 ! gOod ~) 
