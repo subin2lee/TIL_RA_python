@@ -7,17 +7,9 @@
 <br>
 - GUI(Graphical User Interface) - 아이콘을 하나 클릭하면 그에 대한 명령이 실행됨
 <br>
-![대체텍스트][GUI]
-
-[GUI]: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FNqmAR%2FbtqXKuEnUyD%2FyZ3IdZO7jDSqNFOdcB9v3K%2Fimg.png
-
 * CLI(Command Line Interface) - 키보드만으로 명령을 입력하는 환경
 <br>
 &emsp; └ 윈도, 맥, 리눅스 등 모든 운영체제에서 기본적으로 지원함.
-<br>
-![대체텍스트][CLI]
-
-[CLI]: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fuj0xn%2FbtqXSnDLjpb%2F9cOS1FoADCyXqKJg1Hqxx1%2Fimg.png 
 <hr>
 (2) 화면 입출력
 <br>
