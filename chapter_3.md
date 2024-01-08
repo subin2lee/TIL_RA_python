@@ -7,7 +7,7 @@
 <br>
 - GUI(Graphical User Interface) - 아이콘을 하나 클릭하면 그에 대한 명령이 실행됨
 <br>
-* CLI(Command Line Interface) - 키보드만으로 명령을 입력하는 환경
+- CLI(Command Line Interface) - 키보드만으로 명령을 입력하는 환경
 <br>
 &emsp; └ 윈도, 맥, 리눅스 등 모든 운영체제에서 기본적으로 지원함.
 <hr>
