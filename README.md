@@ -8,3 +8,5 @@
 
 &emsp; ( •̀ ω •́ )✧ [chapter1](chapter_1.md)
 &emsp; (●ˇ∀ˇ●) [chapter2](chapter_2.md)
+&emsp; ༼ つ ◕_◕ ༽つ [chapter3](chapter_3.md)
+&emsp; /(ㄒoㄒ)/~~ [chapter4](chapter_4.md)
