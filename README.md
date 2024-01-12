@@ -14,4 +14,4 @@
 <br>
 
 &emsp; ಥ_ಥ [chapter5](chapter_5.md)
-&emsp; (╬▔皿▔)╯ [chapter6](chapter_6.md)
+&emsp; (╬▔皿▔)╯ [chapter6](chpater_6.md)
