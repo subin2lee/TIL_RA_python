@@ -12,6 +12,7 @@
 <hr>
 (2) 화면 입출력
 <br>
+
 &emsp; a. 표준 입력 함수 : **input()함수**
 <br>
 &emsp;&emsp; └ 콘솔 창에서 입력을 받기 위해서 사용됨
@@ -42,6 +43,7 @@ Hello World! Hello Again!!!!
 <br>
 &emsp; a. 리스트의 개념
 <br>
+
 &emsp;&emsp; └ 하나의 변수에 여러 값을 저장하는 변수형 =  **시퀀스자료형**
 <br>
 &emsp;&emsp; 💡시퀀스 자료형 = 여러 자료를 순서대로 넣음 (다양한 자료형 포함 가능)
@@ -79,6 +81,7 @@ print(len(colors))
 ['광주', '울산', '수원']
 ```
 <br>
+
 &emsp;&emsp; 》 ( b - 3 ) **리버스 인덱스(reverse index)** : -1 부터 할당해 역순으로 올라가는 방식
 
 ```python
@@ -88,6 +91,7 @@ print(len(colors))
 ['서울', '부산', '인천', '대구', '대전', '광주', '울산', '수원']
 ```
 <br>
+
 &emsp;&emsp; 》 ( b - 4 ) **인덱스 범위를 넘어가는 슬라이싱(slicing with over index)**
 <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - 변수명[:] = 모든 변수의 값들이 반환됨
@@ -146,6 +150,7 @@ False
 ```
 <hr>
 (5) 리스트의 메모리 관리 방식
+<br>
 🥵 파이썬은 리스트를 저장할 때 갑 자체가 아닌 값이 위치한  [메모리주소]를 저장함.
 <br>
 &emsp; a. 리스트의 개념
