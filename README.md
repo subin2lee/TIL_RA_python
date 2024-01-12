@@ -12,5 +12,6 @@
 &emsp; /(ㄒoㄒ)/~~ [chapter4](chapter_4.md)
 
 <br>
-&emsp; ಥ_ಥ [chapter5](
-&emsp; (╬▔皿▔)╯ 
+
+&emsp; ಥ_ಥ [chapter5](chapter_5.md)
+&emsp; (╬▔皿▔)╯ [chapter6](chapter_6.md)
