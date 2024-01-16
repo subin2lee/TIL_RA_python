@@ -15,3 +15,5 @@
 
 &emsp; ಥ_ಥ [chapter5](chapter_5.md)
 &emsp; (╬▔皿▔)╯ [chapter6](chpater_6.md)
+&emsp; ಠ﹏ಠ [chapter7](chpater_7.md)
+&emsp; ＼（〇_ｏ）／[chapter8](chpater_8.md)
