@@ -138,3 +138,5 @@ print("Product: {name>:5s}, Price per inot: {price:5,5f}.".format(name = "Apple"
 
 #Product: Apple, Price: 5.23400.
 ```
+
+내용 수정
