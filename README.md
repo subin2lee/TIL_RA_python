@@ -20,5 +20,5 @@
 
 <br>
 
-[chapter9](chapter_9.md)
-[chapter10](chapter_10.md)
+&emsp; ꒰✩’ω`ૢ✩꒱ [chapter9](chapter_9.md)
+[&emsp; ଘ(੭˃ᴗ˂)━☆ﾟ chapter10](chapter_10.md)
