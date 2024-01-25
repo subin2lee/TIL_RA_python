@@ -22,5 +22,5 @@
 
 &emsp; ꒰✩’ω`ૢ✩꒱ [chapter9](chapter_9.md)
 &emsp; ଘ(੭˃ᴗ˂)━☆ [chapter10](chapter_10.md)
-&emsp; (੭*'꒫'( '﹃ ' *) [chapter11]()
+&emsp; (੭*'꒫'( '﹃ ' *) [chapter11](chapter_11.md)
 &emsp; ( •̅_•̅ ) [chapter12]()
