@@ -24,3 +24,8 @@
 &emsp; ଘ(੭˃ᴗ˂)━☆ [chapter10](chapter_10.md)
 &emsp; (੭*'꒫'( '﹃ ' *) [chapter11](chapter_11.md)
 &emsp; ( •̅_•̅ ) [chapter12](chapter_12.md)
+
+<br>
+&emsp; ᒄ₍⁽ˆ⁰ˆ⁾₎ᒃ♪♬ [chapter13]()
+&emsp; (｡･ө･｡) [chapter14]()
+&emsp; ꒰◍ᐡᐤᐡ◍꒱ [chapter15()
