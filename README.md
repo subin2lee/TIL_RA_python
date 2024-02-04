@@ -27,5 +27,5 @@
 
 <br>
 &emsp; ᒄ₍⁽ˆ⁰ˆ⁾₎ᒃ♪♬ [chapter13](chapter_13.md)
-&emsp; (｡･ө･｡) [chapter14]()
+&emsp; (｡･ө･｡) [chapter14](chapter_14.md)
 &emsp; ꒰◍ᐡᐤᐡ◍꒱ [chapter15()
